@@ -5,10 +5,11 @@
 
 ---
 
-## 📌 Überblick
+## 📌 Ziele
 
-In diesem Repository entwickeln wir ein **einfaches neuronales Netz**, das Schachpositionen analysieren und daraus lernen soll.  
-Ziel des Projekts ist es, die Grundlagen von **KI, Machine Learning und Schach-Logik** praktisch im Unterricht zu verstehen und umzusetzen.
+- Trainierte Matrix
+- HTML Weboberfläche
+- usw.
 
 ---
 
