@@ -14,7 +14,7 @@ Ziel des Projekts ist es, die Grundlagen von **KI, Machine Learning und Schach-L
 
 ## Wichtige Links zum Merken
 
-- 
+- www.chessprogramming.org/Main_Page
 
 ---
 
