@@ -33,4 +33,4 @@ Dabei liegt der Fokus auf dem **Lernprozess**, nicht auf einer perfekten Schach-
 
 ```bash
 git clone https://github.com/USERNAME/REPOSITORY.git
-cd REPOSITORY
+cd REPOSITORY0
