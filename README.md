@@ -12,13 +12,9 @@ Ziel des Projekts ist es, die Grundlagen von **KI, Machine Learning und Schach-L
 
 ---
 
-## 🎯 Ziele des Projekts
+## Wichtige Links zum Merken
 
-- Grundlagen neuronaler Netze verstehen.
-- Schachstellungen digital verarbeiten.
-- Das Modell mit Daten trainieren.
-- Ergebnisse testen und verbessern.
-- Das Ganze im Rahmen des Informatikunterrichts dokumentieren.
+- 
 
 ---
 
@@ -33,4 +29,4 @@ Dabei liegt der Fokus auf dem **Lernprozess**, nicht auf einer perfekten Schach-
 
 ```bash
 git clone https://github.com/USERNAME/REPOSITORY.git
-cd REPOSITORY0
+cd REPOSITORY
